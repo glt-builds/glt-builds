@@ -1,18 +1,16 @@
 # 👋 Welcome to **glt-builds**
 
-> Exploring creative and transparent ways to build with **Rust**, **TypeScript**, and **Solana**.  
-> Focused on real-world experiments in data, DeFi, and gamified discovery.
+> Exploring creative and transparent ways to build with **Rust** and **Solana** — one project at a time.
 
 ---
 
-### 🧠 Idea Lab Projects
+### 💡 Current Build
 
-| Project | Description |
-|----------|--------------|
-| 💡 [**RPS for Good**](https://github.com/glt-builds/rps-for-good) | Solana Devnet charity experiment — rock-paper-scissors game where winners donate SOL to on-chain causes. |
-| 🍜 [**Yumaya**](https://github.com/glt-builds/yumaya) | Gamified ramen discovery app using Solana location tags and map integration. |
-| 🧱 [**Solana Block Stats**](https://github.com/glt-builds/solana_block_stats) | Rust CLI that queries real-time Solana RPC block data with auto-fallback. |
-| ⚡ [**Phoenix Signal Viewer**](https://github.com/glt-builds/phoenix_signal_viewer) | (WIP) Live order-book signal dashboard built with the Phoenix SDK and async Rust. |
+#### ⚡ **Phoenix Signal Viewer**
+Real-time Rust + Solana project analyzing order-book activity on the **Phoenix DEX**.  
+The goal: extract trading signals directly from on-chain data — measuring liquidity, bid/ask imbalance, and price flow in real time.
+
+> Built entirely in public — experimenting with low-latency Rust systems and Solana’s high-performance runtime.
 
 ---
 
@@ -20,24 +18,22 @@
 
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![Anchor](https://img.shields.io/badge/Anchor-512DA8?logo=anchor&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?logo=mapbox&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-0D1117?logo=solana&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-333333?logo=rust&logoColor=white)
 
 ---
 
-### 🌱 Currently Exploring
-- 📊 Real-time signal extraction from Solana DEX order books (Phoenix / OpenBook)  
-- 🧩 Building cross-chain data pipelines in Rust  
-- 🌐 Low-latency analytics & gamified dApps  
+### 🧭 About
+
+- 🌱 Learning low-level Solana development and async Rust  
+- 📊 Exploring real-time order flow and on-chain analytics  
+- 🧠 Long-term goal: build intelligent DeFi research tools with transparency and open data  
 
 ---
 
 ### 📫 Connect
-- 💬 [Solana Tech Discord](https://discord.gg/solana)
-- 🐦 [@glt_builds](https://twitter.com/glt_builds) *(optional link if you use Twitter/X)*
-- ✉️ DM or issues welcome — open to collaboration on open-source DeFi tools.
+- 💬 [Solana Tech Discord](https://discord.gg/solana) — `@glt-builds`  
+- 🐦 [@glt_builds](https://twitter.com/glt_builds) *(optional)*  
 
----
-
-> _“Build transparently, learn publicly, and leave clear footprints for others to follow.”_
+> _“Build transparently. Learn publicly.”_
